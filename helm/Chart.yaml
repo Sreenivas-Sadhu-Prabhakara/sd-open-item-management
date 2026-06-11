@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-open-item-management
+description: "BIAN Service Domain: Open Item Management (Manage pattern, Operations and Execution)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - manage
+annotations:
+  bian/business-area: "Operations and Execution"
+  bian/business-domain: "Operations"
+  bian/asset-type: "Open Item"
+  bian/control-record: "Open Item Management Plan"
